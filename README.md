@@ -1,3 +1,3 @@
 # git-practice4
 
-Super duper important change!! Merge me into your dev branch!
+I mean these changes are alight. Merge me into your dev branch!
